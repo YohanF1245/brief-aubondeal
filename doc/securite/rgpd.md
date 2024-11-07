@@ -1,0 +1,11 @@
+La collecte et le traitement de données personnelles sont réglementés par la RGPD, de fait une attention particulière sera apportée sur ce sujet:
+- En commençant par demander le consentement du visiteur pour la collecte et l’utilisation de ses données personnelles.
+- En lui exposant de manière claire et transparente comment sont traitées les informations et dans quel but via les mentions légales.
+- En ne demandant de renseigner que les données utiles.
+- Par ailleurs les données ne seront pas stockées et traitées de la même manière, au vu du caractère sensible de certaines données la CNIL impose des restrictions plus importantes pour certaines données.
+- Garder à l'esprit que les visiteurs ayant partagé leurs données personnelles doivent garder le contrôle sur ces dernières. Dans ce cadre trois grands principes seront appliqués:
+- Droit de consultation : les utilisateurs doivent être en mesure de consulter librement à tout moment leurs données personnelles.
+- Droit de rectification : les utilisateurs doivent être en mesure de pouvoir modifier librement les données qu’ils ont partagées.
+- Droit à l’oubli : les utilisateurs ont le droit de pouvoir supprimer de manière complète et définitive les données qu'ils ont communiquées.
+- Si le système d’information venait à être compromis, les utilisateurs concernés doivent être avertis sous soixante-douze si la violation représente un risque pour leurs droits et libertés.
+- Les règles de sécurité proposées tout au long de ce document ont pour vocation d’apporter une sécurité maximale de l'intégrité et de la confidentialité de toutes les données stockées (Privacy by Design) . Cette section a pour but de clarifier les points nécessitant une attention particulière du fait de la réglementation RGPD.
