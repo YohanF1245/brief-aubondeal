@@ -1,11 +1,9 @@
-15 jours de sauvegarde de sauvegerde journalière
-les sauvegardes ecrases la sauvegarde j-15
-Les sauvegardes sont faite la nuit entre 4 et 5 heures du matin
-La règle du 3-2-1 est utilisée
-Tout les jours 3 sauvegardes 
-2 supports diffèrents ()
-1 sauvegarde externe exportée via un tunnel vpn sécurisé
-Tout les 15 jours une sauvegarge sera également faite pour de l'archivage. Ces sauvegarde ne sont pas destinées a étre effacées car un un faille de securité
-Les sauvegardes seront chiffrées via sha256
-La clé privée sera stockée sur un serveur HSM, spécialisé dans le stockage de clés de chiffrement.
+Afin d'assurer la sécurité de nos données, nous avons mis en place une politique de sauvegarde robuste et automatisée. Chaque jour, trois copies de sauvegarde sont effectuées entre 4 et 5 heures du matin, selon la règle de sauvegarde 3-2-1. Concrètement, cela signifie :
+
+- 3 copies de la sauvegarde quotidienne ;
+- 2 supports de stockage différents pour garantir la résilience des données ;
+- 1 copie externe transférée via un tunnel VPN sécurisé.
+Chaque sauvegarde quotidienne est conservée pendant 15 jours, et les nouvelles écrasent automatiquement la sauvegarde la plus ancienne. Par ailleurs, tous les 15 jours, une sauvegarde d'archivage est créée, dédiée à la conservation à long terme et ne sera pas effacée, offrant une protection supplémentaire en cas de faille de sécurité.<br>
+
+Toutes les sauvegardes sont chiffrées selon l'algorithme SHA-256. La clé privée utilisée pour ce chiffrement est stockée de manière sécurisée sur un serveur HSM (Hardware Security Module), spécifiquement conçu pour la gestion de clés cryptographiques.
 
