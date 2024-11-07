@@ -1,4 +1,5 @@
 # Règles de gestion
+
 ## Gestion des visiteurs
 - R.G 1: Un visiteur peut créer un compte user
 - R.G 2: Un visiteur peut se connecter

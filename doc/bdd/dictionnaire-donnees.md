@@ -13,7 +13,7 @@
 |         | created_at           | DATE    |          |                                         | Date de création de la commande           |
 |         | deliver_ato          | DATE    |          |                                         | Date de livraison                         |
 |         | user_UUID            | UUID    |          | FOREIGN KEY REFERENCES Users(user_UUID) | Référence a l'user UUID de la table users |
-| Product | product_UUID         | UUID    |          | PRIMARY KEY                             |                                           |
+| Product | product_UUID         | UUID    |          | PRIMARY KEY                             | Identifiant unique du produit             |
 |         | product_name         | VARCHAR | 50       |                                         | Nom du produit                            |
 |         | product_description  | VARCHAR | 200      |                                         | Description du produit                    |
 |         | product_price        | NUMERIC | (10,2)   |                                         | Prix du produit                           |
