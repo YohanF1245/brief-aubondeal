@@ -1,3 +1,5 @@
+# Politique de retention
+
 Afin d'assurer la sécurité de nos données, nous avons mis en place une politique de sauvegarde robuste et automatisée. Chaque jour, trois copies de sauvegarde sont effectuées entre 4 et 5 heures du matin, selon la règle de sauvegarde 3-2-1. Concrètement, cela signifie :
 
 - 3 copies de la sauvegarde quotidienne ;
