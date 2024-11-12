@@ -16,4 +16,4 @@
 
 Pour l'application le choix de postgreSQL s'avère rationnel en raison de sa popularité, de sa scalabité, et de sa robustesse.<br>
 PostgreSQL respecte les standards SQL , qui lui permet de construire des requêtes plus complexes et avancées. <br>
-De plus postgreSQL est sous license open source ce qui permet plus de flexibilité dans l'utilisation et garatnti la totale gratuité pour l'utilisation
+De plus postgreSQL est sous license open source ce qui permet plus de flexibilité dans l'utilisation et garanti la totale gratuité pour l'utilisation.
