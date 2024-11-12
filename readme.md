@@ -5,6 +5,8 @@
 - [Des règles de gestion](/doc/regles-gestion.md)
 - [Un dictionnaire de données](/doc/bdd/dictionnaire-donnees.md)
 - [Une définition de l'acronyme MERISE dans la documentation](#definition-de-lacronyme-merise)
+- [RGPD](/doc/securite/rgpd.md)
+- [Politique de retention](/doc/securite/politique-retention.md)
 - [Un document présentant les améliorations à apporter pour cette BDD / Diagrammes fournis](/doc/proposition-amelioration.md)
 - [Un document expliquant le choix du SGBDR](/doc/benchmark/benchmark-bdd.md)
 
